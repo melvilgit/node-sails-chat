@@ -1,0 +1,12 @@
+Worked with sails.js tutorial page.
+Followed each instruction in the webpage,installed the node packages such as sails.js,password-hasher etc
+Great Tutorial !! Sails.js is an awesome framework that supports realtime socket connection.
+I followed each step but i got a lots of issues,i went throught the original github profile and made some changes to my original directory from there.
+
+I am able to understand how the sails.js framework works.I really wonders how easily it implemented a chat feauture :-)
+but i think i need to study more about the BackBone.js code in chat.ejs file in views directory.From the original code i just added an extra bootstrap.css for ui.Wishes to learn more awesome frameworks like sails.js :-).
+
+
+Regards
+Melvil
+
