@@ -1,2 +1,0 @@
-# ChatApp
-### a Sails application
